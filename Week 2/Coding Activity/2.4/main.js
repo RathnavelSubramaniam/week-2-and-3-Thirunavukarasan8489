@@ -9,8 +9,8 @@ function isString(a,b,c)
 //Write your code here
 ////////////////////////////////////////
 {
-    var a="Praveen";
-    var b="Kumar";
+    var a="Thirunavukarasan";
+    var b="Gopi";
     var c=23;
     
     {
